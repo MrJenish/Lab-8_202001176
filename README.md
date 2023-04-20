@@ -3,7 +3,8 @@
 # ID - 202001176
 
 ## 1. Creating a new Eclipse project, and within the project create a package and defining the class
-<img src="https://user-images.githubusercontent.com/95064151/233036757-48d69020-3270-44bc-9c8b-c8443862f8ff.png">
+![Screenshot 2023-04-20 145229](https://user-images.githubusercontent.com/91904557/233321559-0a57ba27-dc5b-478a-a3ad-376074da4a92.png)
+
 
 ### 2. Test method to test the behaviour of the Boa class : 
 ```
@@ -32,7 +33,8 @@ public class BoaTest {
   }
 }
 ```
-<img src="https://user-images.githubusercontent.com/95064151/233039273-d00304f8-2deb-4061-af0c-b76a2254d573.png">
+![Screenshot 2023-04-20 145401](https://user-images.githubusercontent.com/91904557/233321938-4f6a4d04-5f91-433f-95ea-45ec95b1bf5e.png)
+
 </br>
 
 ### 3. Modified setUp() method in the BoaTest class : 
@@ -50,7 +52,8 @@ public class BoaTest {
     // write test methods here
 }
 ```
-<img src="https://user-images.githubusercontent.com/95064151/233043524-77bdff56-2e7b-4f43-bd8a-0ca06593abf9.png">
+![Screenshot 2023-04-20 145528](https://user-images.githubusercontent.com/91904557/233322342-1f5cd07a-a3ec-4f09-acb1-a33ac151a993.png)
+
 </br>
 
 ### 4. Modified testIsHealthy() method in the BoaTest class : 
@@ -84,7 +87,7 @@ public void testFitsInCage() {
 </br>
 
 ### 6. Running test cases
-<img src="https://user-images.githubusercontent.com/95064151/233043180-b2f14800-de7b-4d43-a372-2e3cfdc44d44.png">
+![Screenshot 2023-04-20 145640](https://user-images.githubusercontent.com/91904557/233322720-5318a654-ff08-4e6b-8979-d0869aab1ba8.png)
 
 ### 7. Here's the modified Boa class with the new lengthInInches() method:
 ```
