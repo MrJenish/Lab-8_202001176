@@ -1,8 +1,8 @@
-# Lab 8 (IT 314)
+# Lab 8 (IT 314 : Software Engineering)
 # Name - Jenish Mangukiya
 # ID - 202001176
 
-## 1. Creating a new Eclipse project, and within the project create a package and defining the class
+### 1. Creating a new Eclipse project, and within the project create a package and defining the class
 ![Screenshot 2023-04-20 145229](https://user-images.githubusercontent.com/91904557/233321559-0a57ba27-dc5b-478a-a3ad-376074da4a92.png)
 
 
@@ -88,6 +88,7 @@ public void testFitsInCage() {
 
 ### 6. Running test cases
 ![Screenshot 2023-04-20 145640](https://user-images.githubusercontent.com/91904557/233322720-5318a654-ff08-4e6b-8979-d0869aab1ba8.png)
+
 
 ### 7. Here's the modified Boa class with the new lengthInInches() method:
 ```
